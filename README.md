@@ -26,4 +26,4 @@ It will also not delete the saves from Game Pass, of course.
 
 I have tested this with a fresh new install without saves with success, feel free to open issues if you have any problem!
 
-## Many thanks to [Sotumney and his Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2827009411) who inspired this script
+Many thanks to [Sotumney and his Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2827009411) who inspired this script!

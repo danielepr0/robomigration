@@ -16,13 +16,13 @@ This simple tool will automate the painful step of moving from Game Pass to Stea
 
 The tool will simply scan the files content, check for keywords and copy them as renamed accordingly.
 
-### Why not a GUI?
-
-It's useless since it does not need user input, it's fully automated.
-
 ### Safety precautions
 
 ***For safety reasons, it will also copy the save files on the desktop in a folder named `Roboquest_saves_bkp`***
+\
+It will also not delete the saves from Game Pass, of course.
+
+## Testing, issues and thanks
 
 I have tested this with a fresh new install without saves with success, feel free to open issues if you have any problem!
 

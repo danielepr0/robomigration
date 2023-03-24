@@ -12,7 +12,13 @@
 
 This simple tool will automate the painful step of moving from Game Pass to Steam, since the save files are renamed in a weird way and need to be renamed, depending of the content.
 
+### What does it do
+
 The tool will simply scan the files content, check for keywords and copy them as renamed accordingly.
+
+### Why not a GUI?
+
+It's useless since it does not need user input, it's fully automated.
 
 ### Safety precautions
 

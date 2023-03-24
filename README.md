@@ -4,9 +4,9 @@
 
 ### Warning
 
-**BACK UP YOUR SAVE FILES IF YOU ALREADY HAVE THEM ON STEAM**
+**BACK UP YOUR STEAM SAVE FILES IF YOU ALREADY HAVE THEM**
 \
-**It will delete the save files on Steam**.
+**It WILL delete the save files on Steam**.
 
 ### Summary
 

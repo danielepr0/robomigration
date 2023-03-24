@@ -3,7 +3,7 @@
 ## Migration tool for Roboquest saves from Game Pass to Steam
 
 ## **BACK UP YOUR STEAM SAVE FILES IF YOU ALREADY HAVE THEM, It WILL delete the save files on Steam**
-
+*I am not responsible for data loss even if SUPER unlikely*
 
 ## Prerequisites (same as Sotumney's guide, link at the bottom)
 On the Game Pass installation:

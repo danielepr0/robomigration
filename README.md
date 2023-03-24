@@ -2,19 +2,21 @@
 
 ## Migration tool for Roboquest saves from Game Pass to Steam
 
-### Warning
+## **BACK UP YOUR STEAM SAVE FILES IF YOU ALREADY HAVE THEM, It WILL delete the save files on Steam**
 
-**BACK UP YOUR STEAM SAVE FILES IF YOU ALREADY HAVE THEM**
-\
-**It WILL delete the save files on Steam**.
 
-### Summary
+## Prerequisites (same as Sotumney's guide, link at the bottom)
+On the Game Pass installation:
+- Have played the game at least once
+- Changed graphics and control settings at least once
+- Either failed or completed at least one run
+- Obtained at least one wrench (you can by completing one stage)
+
+## What does it do
 
 This simple tool will automate the painful step of moving from Game Pass to Steam, since the save files are renamed in a weird way and need to be renamed, depending of the content.
 
-### What does it do
-
-The tool will simply scan the files content, check for keywords and copy them as renamed accordingly.
+It will simply scan the files content, check for keywords and copy them as renamed accordingly.
 
 ### Safety precautions
 
